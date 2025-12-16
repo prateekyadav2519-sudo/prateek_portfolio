@@ -1,17 +1,11 @@
-<!-- ================= CYBER AI PROFILE README ================= -->
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Prateek%20Yadav&fontColor=00ffff&animation=twinkling&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Prateek%20Yadav&fontColor=ffffff&fontSize=55&animation=fadeIn&color=gradient&customColorList=12,14,16" />
 </p>
-
-<!-- Matrix Background Illusion -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalZz8y7HG/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&pause=900&color=FF3131&center=true&width=600&lines=AI+Security+Enthusiast;Graphic+Designer;Cyber+Defense+Mode+ON" />
 </p>
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00FFFF&center=true&width=600&lines=AI+Engineer;Graphic+Designer;Cyber+Workspace" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=SECURE%20SYSTEM%20ACTIVE&fontColor=2979FF&animation=blink&color=black" />
 </p>
 
 
