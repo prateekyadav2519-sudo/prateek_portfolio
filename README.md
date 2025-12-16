@@ -9,6 +9,62 @@
 </p>
 
 <hr style="border:1px solid #30363d;">
+<!-- ================= CYBER SECURITY BACKGROUND ================= -->
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg"
+    width="100%"
+  />
+</p>
+
+<!-- ================= MAIN HEADER ================= -->
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect
+    &height=220
+    &text=Prateek%20Yadav
+    &fontSize=55
+    &fontColor=E6EDF3
+    &animation=fadeIn
+    &color=0d1117" 
+  />
+</p>
+
+<!-- ================= ROLE / IDENTITY ================= -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?
+    font=JetBrains+Mono
+    &size=22
+    &pause=900
+    &color=58A6FF
+    &center=true
+    &width=750
+    &lines=Cyber+Security+Learner;
+    Software+Developer;
+    B.Tech+CSE+(AI);
+    Secure+Code+%7C+Smart+Systems" 
+  />
+</p>
+
+<!-- ================= STATUS BAR ================= -->
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect
+    &height=70
+    &text=SECURE%20SOFTWARE%20DEVELOPMENT%20ENVIRONMENT%20ACTIVE
+    &fontSize=18
+    &fontColor=3FB950
+    &animation=blink
+    &color=161b22" 
+  />
+</p>
+
+<hr style="border:1px solid #30363d;">
 
 ## 🧠 About Me (AI × Cyber Theme)
 
