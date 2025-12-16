@@ -46,18 +46,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=tokyonight&hide_border=true"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
-</p>
-
-<p align="center">
-  🔐 Status: <b>SECURE</b> &nbsp;|&nbsp; ⚡ Mode: <b>ACTIVE</b> &nbsp;|&nbsp; 🚀 Deployment: <b>LIVE</b>
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -70,12 +58,25 @@
 </p>
 
 ---
+## 🚀 Featured Project
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+</p>
+
+<p align="center">
+  🔐 Status: <b>SECURE</b> &nbsp;|&nbsp; ⚡ Mode: <b>ACTIVE</b> &nbsp;|&nbsp; 🚀 Deployment: <b>LIVE</b>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrateekYadav2519-sudo&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekYadav2519-sudo&theme=tokyonight" />
+  <img src="(https://github-readme-streak-stats.herokuapp.com/?user=PrateekYadav2519-sudo&theme=tokyonight)" />
+
 </p>
 
 
