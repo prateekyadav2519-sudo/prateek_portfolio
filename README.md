@@ -1,42 +1,13 @@
-<!-- ===== CYBER SECURITY BACKGROUND ===== -->
-
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg"
-    width="100%"
-    alt="cyber background"
-  />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%" />
 </p>
 
-<!-- ===== MAIN TITLE ===== -->
+<h1 align="center">Prateek Yadav</h1>
 
-<h1 align="center">
-  🛡️ CYBER SECURITY
-</h1>
+<h3 align="center">
+  👨‍💻 B.Tech CSE (AI) | Graphic Designer | Freelancer
+</h3>
 
-<p align="center">
-  Shielding Systems • Securing Code • Building Trust
-</p>
-
-<!-- ===== ROLE ANIMATION ===== -->
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=JetBrains+Mono
-    &size=20
-    &pause=900
-    &color=58A6FF
-    &center=true
-    &width=700
-    &lines=Software+Developer;
-    Cyber+Security+Learner;
-    B.Tech+CSE+(AI);
-    Secure+Software+Engineering"
-  />
-</p>
-
-<hr style="border:1px solid #30363d;">
 
 
 ## 🧠 About Me (AI × Cyber Theme)
