@@ -70,18 +70,14 @@
 </p>
 
 ---
-## 📊 GitHub AI Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=prateekyadav2519-sudo&show_icons=true&theme=github-dark&hide_border=true"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav2519-sudo&theme=github-dark&hide_border=true"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrateekYadav2519-sudo&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekYadav2519-sudo&theme=tokyonight" />
 </p>
+
 
 
 
