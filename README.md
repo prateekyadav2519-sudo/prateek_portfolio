@@ -108,18 +108,15 @@
 </p>
 
 ---
-## 🚗 AI Drive Mode (Futuristic Projects)
+## 🐍 Cyber Activity Stream
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" 
-    width="420"
+    src="https://github.com/prateekyadav2519-sudo/prateekyadav2519-sudo/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="cyber snake"
   />
 </p>
 
-<p align="center">
-  <i>Powering secure systems with speed, precision, and intelligence</i>
-</p>
 
 
 ## 📞 Contact Details
