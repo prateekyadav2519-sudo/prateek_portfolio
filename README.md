@@ -48,11 +48,11 @@
   </a>
 </p>
 
-🛸 **Cyber Portfolio Website**  
-> Futuristic UI • Dark Mode • AI-inspired Design
-
-🔗 **Live Portfolio:**  
-👉 https://prateekyadav2519-sudo.github.io/prateek_portfolio/
+<p align="center">
+  <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00ffff" />
+  </a>
+</p>
 
 ---
 
