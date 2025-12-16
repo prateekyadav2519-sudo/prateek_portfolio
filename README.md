@@ -48,15 +48,13 @@
 
 ## 🚀 Featured Project
 
+
 <p align="center">
-  <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=github-dark&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  🌐 <b>AI-Powered Cyber Portfolio</b><br/>
-  <i>Dark UI • Secure Design • Modern Web</i>
+  🔐 Status: <b>SECURE</b> &nbsp;|&nbsp; ⚡ Mode: <b>ACTIVE</b> &nbsp;|&nbsp; 🚀 Deployment: <b>LIVE</b>
 </p>
 
 ## 🌐 Connect With Me
