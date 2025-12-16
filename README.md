@@ -1,63 +1,46 @@
-<!-- ===================== CYBER AI GITHUB PROFILE ===================== -->
+<!-- ================= CYBER AI PROFILE README ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20I'm%20Prateek%20Yadav&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,3,5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Prateek%20Yadav&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5&animation=fadeIn" />
 </p>
 
-<h2 align="center">👨‍💻 B.Tech CSE (AI) | Graphic Designer | Freelancer</h2>
+<h3 align="center">
+  👨‍💻 B.Tech CSE (AI) | Graphic Designer | Freelancer  
+</h3>
 
 <p align="center">
-🚀 Passionate about Artificial Intelligence, creative design, and futuristic digital experiences  
+  <img src="https://komarev.com/ghpvc/?username=prateekyadav2519-sudo&label=PROFILE+VISITS&color=0ff&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me (AI-Themed)
+## 🧠 About Me (AI × Cyber Theme)
 
-- 🎓 **B.Tech in Computer Science (Artificial Intelligence)**
+- 🤖 **AI Enthusiast & Problem Solver**
 - 🎨 **Graphic Designer & Freelancer**
-- 🤖 Exploring **AI tools & intelligent systems**
-- 💻 Love working with **Python, HTML, C**
-- 🌌 Inspired by **Cyberpunk & Dark UI aesthetics**
+- 💻 B.Tech in **Computer Science Engineering (Artificial Intelligence)**
+- ⚡ Passionate about **futuristic UI, cyber aesthetics & intelligent systems**
+- 🛠 Exploring **Leonardo AI, Design + Code fusion**
 
 ---
 
 ## 🧩 Skills Matrix
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,c,figma,canva&theme=dark" />
-</p>
 
-**Other Tools**
-- 🧠 Leonardo AI  
-- 🎨 Adobe Creative Suite  
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00ffff)
+![HTML](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=ff6600)
+![C](https://img.shields.io/badge/C_Language-0A0A0A?style=for-the-badge&logo=c&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva&logoColor=00ffff)
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=ff00ff)
+![Adobe](https://img.shields.io/badge/Adobe-0A0A0A?style=for-the-badge&logo=adobe&logoColor=ff0000)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-0A0A0A?style=for-the-badge&logo=openai&logoColor=00ff99)
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prateek-yadav-15ab4332a">
-    <img src="https://img.shields.io/badge/LinkedIn-00c6ff?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/_pratikk__7?igsh=MTc0eml4bngzc2c3Ng==">
-    <img src="https://img.shields.io/badge/Instagram-ff0050?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 🚀 Portfolio
-
-<p align="center">
-  <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-39ff14?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
-
----
-
-## 🧪 Animated Project Cards (Cyber Style)
+## 🚀 Featured Cyber Project
 
 <p align="center">
   <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/">
@@ -65,9 +48,43 @@
   </a>
 </p>
 
-### 🚗 Cyber Car Concept
-```text
-⚡ AI powered futuristic car UI
-🧠 Neural dashboard concept
-🌌 Cyberpunk design language
+🛸 **Cyber Portfolio Website**  
+> Futuristic UI • Dark Mode • AI-inspired Design
+
+🔗 **Live Portfolio:**  
+👉 https://prateekyadav2519-sudo.github.io/prateek_portfolio/
+
+---
+
+## 📊 GitHub AI Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekyadav2519-sudo&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav2519-sudo&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prateek-yadav-15ab4332a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00ffff" />
+  </a>
+  <a href="https://www.instagram.com/_pratikk__7">
+    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=ff00ff" />
+  </a>
+</p>
+
+---
+
+## 📞 Contact Details
+
+```txt
+📧 Email : prateekyadav2519@gmail.com
+📱 Mobile: +91-6261493318
+
 
