@@ -1,18 +1,19 @@
 <!-- ================= CYBER AI PROFILE README ================= -->
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Prateek%20Yadav&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Prateek%20Yadav&fontColor=00ffff&animation=twinkling&color=gradient" />
 </p>
 
-<h3 align="center">
-  👨‍💻 B.Tech CSE (AI) | Graphic Designer | Freelancer  
-</h3>
-
+<!-- Matrix Background Illusion -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateekyadav2519-sudo&label=PROFILE+VISITS&color=0ff&style=flat-square" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRalZz8y7HG/giphy.gif" width="100%" />
 </p>
 
----
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00FFFF&center=true&width=600&lines=AI+Engineer;Graphic+Designer;Cyber+Workspace" />
+</p>
+
 
 ## 🧠 About Me (AI × Cyber Theme)
 
