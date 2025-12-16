@@ -70,18 +70,19 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekyadav2519-sudo&show_icons=true&theme=github-dark&hide_border=true"/>
-</p>
+## 📊 GitHub AI Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav2519-sudo&theme=github-dark&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prateekyadav2519-sudo&show_icons=true&theme=github-dark&hide_border=true"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav2519-sudo&theme=github-dark&hide_border=true"
+    width="48%"
+  />
 </p>
 
----
 
 
 ## 💻 Cyber Dev Workspace
@@ -90,7 +91,14 @@
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     width="360"
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="360"/>
+ <p align="center">
+  <img 
+    src="https://media.giphy.com/media/l0HlQ7LRalZz8y7HG/giphy.gif"
+    width="300"
+    alt="ai workspace"
+  />
+</p>
+
 
   />
 </p>
@@ -104,9 +112,6 @@
   />
 </p>
 
-<p align="center">
-  🔐 Secure Code &nbsp;•&nbsp; 🤖 AI Systems &nbsp;•&nbsp; ⚙️ Software Engineering
-</p>
 
 ---
 ## 🐍 Cyber Activity Monitor
