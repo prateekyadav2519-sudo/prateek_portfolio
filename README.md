@@ -51,6 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
 </p>
 
 <p align="center">
@@ -108,7 +109,7 @@
 </p>
 
 ---
-## 🐍 Cyber Activity Stream
+## 🐍 Cyber Activity Monitor
 
 <p align="center">
   <img 
@@ -116,6 +117,7 @@
     alt="cyber snake"
   />
 </p>
+
 
 
 
