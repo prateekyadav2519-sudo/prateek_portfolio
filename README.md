@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Prateek%20Yadav&fontSize=55&fontColor=E6EDF3&animation=fadeIn&color=0d1117" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&width=700&lines=Cyber+Security+Learner;Software+Developer;AI+Engineering+Student" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=SECURE%20DEVELOPMENT%20ENVIRONMENT%20ACTIVE&fontSize=18&fontColor=3FB950&animation=blink&color=161b22" />
-</p>
 
-<hr style="border:1px solid #30363d;">
 <!-- ================= CYBER SECURITY BACKGROUND ================= -->
 
 <p align="center">
