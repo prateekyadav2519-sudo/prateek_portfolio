@@ -1,70 +1,63 @@
-<!-- ================= CYBER AI PROFILE README ================= -->
+<!-- ================= SECURE CYBER PROFILE ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Prateek%20Yadav&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%" />
 </p>
 
-<h3 align="center">
-  👨‍💻 B.Tech CSE (AI) | Graphic Designer | Freelancer  
-</h3>
+<h1 align="center">🛡️ Prateek Yadav</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateekyadav2519-sudo&label=PROFILE+VISITS&color=0ff&style=flat-square" />
+  <b>B.Tech CSE (Artificial Intelligence)</b> <br/>
+  Software Developer • Graphic Designer • Freelancer
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prateekyadav2519-sudo&label=PROFILE+VIEWS&color=0A66C2&style=flat-square" />
+</p>
+
+<hr/>
+
+## 🧠 About Me (AI × Cyber Security)
+
+- 🤖 AI & Cyber Security Enthusiast  
+- 💻 Software Developer with design skills  
+- 🎨 Graphic Designer & Freelancer  
+- 🔐 Passionate about secure systems & clean UI  
+- 🚀 Exploring AI-powered & cyber-safe applications  
+
+---
+
+## 🧠 Skills Matrix
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/C_Language-0D1117?style=for-the-badge&logo=c&logoColor=5E97D0"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=00AEEF"/>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Adobe-0D1117?style=for-the-badge&logo=adobe&logoColor=FF0000"/>
 </p>
 
 ---
 
-
-## 🧠 About Me (AI × Cyber Theme)
-
-- 🤖 **AI Enthusiast & Problem Solver**
-- 🎨 **Graphic Designer & Freelancer**
-- 💻 B.Tech in **Computer Science Engineering (Artificial Intelligence)**
-- ⚡ Passionate about **futuristic UI, cyber aesthetics & intelligent systems**
-- 🛠 Exploring **Leonardo AI, Design + Code fusion**
-
----
-
-## 🧩 Skills Matrix
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00ffff)
-![HTML](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=ff6600)
-![C](https://img.shields.io/badge/C_Language-0A0A0A?style=for-the-badge&logo=c&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva&logoColor=00ffff)
-![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=ff00ff)
-![Adobe](https://img.shields.io/badge/Adobe-0A0A0A?style=for-the-badge&logo=adobe&logoColor=ff0000)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-0A0A0A?style=for-the-badge&logo=openai&logoColor=00ff99)
-
-</p>
-
----
-
-## 🚀 Featured Cyber Project
+## 🚀 Portfolio
 
 <p align="center">
   <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub AI Stats
+## 🧩 Featured Project (Cyber Card)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekyadav2519-sudo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav2519-sudo&theme=tokyonight&hide_border=true" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -73,11 +66,31 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prateek-yadav-15ab4332a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_pratikk__7">
-    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=ff00ff" />
+    <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekyadav2519-sudo&show_icons=true&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekyadav2519-sudo&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 💻 Cyber Workspace
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
 </p>
 
 ---
@@ -87,5 +100,3 @@
 ```txt
 📧 Email : prateekyadav2519@gmail.com
 📱 Mobile: +91-6261493318
-
-
