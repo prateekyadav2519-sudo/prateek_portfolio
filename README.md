@@ -46,17 +46,21 @@
 
 ---
 
-## 🧩 Featured Project (Cyber Card)
+## 🚗 Project in Motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=github-dark&hide_border=true"/>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="380"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+  <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/">
+    <img src="https://img.shields.io/badge/LAUNCH_PROJECT-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <i>Driving innovation with secure and intelligent systems</i>
+</p>
 
 ## 🌐 Connect With Me
 
@@ -90,13 +94,14 @@
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     width="360"
+    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="360"/>
+
   />
 </p>
 
 <p align="center">
   🔐 Secure Code &nbsp;•&nbsp; 🤖 AI Systems &nbsp;•&nbsp; ⚙️ Software Engineering
 </p>
-## 💻 Cyber Dev Workspace
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360"/>
