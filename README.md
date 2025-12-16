@@ -1,55 +1,11 @@
-<!-- ================= CYBER SECURITY HERO BACKGROUND ================= -->
-
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1600267165477-6c0f2e1b5b44?auto=format&fit=crop&w=1600&q=80"
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg"
     width="100%"
+    alt="cyber background"
   />
 </p>
-
-<!-- ================= OVERLAY TITLE ================= -->
-
-<h1 align="center" style="font-size:48px;">
-  🛡️ CYBER SECURITY
-</h1>
-
-<h3 align="center">
-  Shielding Systems • Securing Code • Building Trust
-</h3>
-
-<!-- ================= ROLE BAR ================= -->
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=JetBrains+Mono
-    &size=20
-    &pause=800
-    &color=3FA9F5
-    &center=true
-    &width=700
-    &lines=Software+Developer;
-    Cyber+Security+Learner;
-    B.Tech+CSE+(Artificial+Intelligence);
-    Secure+Software+Engineering" 
-  />
-</p>
-
-<!-- ================= STATUS STRIP ================= -->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect
-    &height=65
-    &text=SECURE%20DIGITAL%20INFRASTRUCTURE%20ACTIVE
-    &fontSize=16
-    &fontColor=00FF9C
-    &animation=blink
-    &color=0d1117" 
-  />
-</p>
-
-<hr style="border:1px solid #30363d;">
+solid #30363d;">
 
 
 ## 🧠 About Me (AI × Cyber Theme)
