@@ -46,20 +46,17 @@
 
 ---
 
-## 🚗 Project in Motion
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="380"/>
-</p>
+## 🚀 Featured Project
 
 <p align="center">
   <a href="https://prateekyadav2519-sudo.github.io/prateek_portfolio/">
-    <img src="https://img.shields.io/badge/LAUNCH_PROJECT-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekyadav2519-sudo&repo=prateek_portfolio&theme=github-dark&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <i>Driving innovation with secure and intelligent systems</i>
+  🌐 <b>AI-Powered Cyber Portfolio</b><br/>
+  <i>Dark UI • Secure Design • Modern Web</i>
 </p>
 
 ## 🌐 Connect With Me
